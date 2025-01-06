@@ -12,7 +12,7 @@
 
 #define CDCTL_SYS_CLK       150000000UL // 150MHz for CDCTL01A
 
-//#define ARCH_SPI
+#define ARCH_SPI
 #define CD_LIST_IT
 #define CD_FRAME_SIZE       258
 #define CDN_MAX_DAT         253
